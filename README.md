@@ -1,4 +1,4 @@
-# Team training project: api_yatube - 
+# Training project: api_yatube - platform for publishing posts and comments on them.
 
 ## Technologies used:
 Python3, Django Framework, Django Rest Framework, JWT, Djoser
