@@ -1,13 +1,13 @@
 # Training project: Platform for publishing posts and comments on them with API.
 
 ## Technologies used:
-Python3, Django Framework, Django Rest Framework, JWT, Djoser
+Python3, Django Framework, Django Rest Framework, JWT, MySQL, Djoser
 
 ## Project description:
 
 Platform for publishing posts and comments on them. It is possible to create groups with descriptions, attach posts to groups. You can also subscribe to authors.
 
-The project was accessed via API, changing content only by authors, creating content only for authenticated applications. View content The project uses JWT tokens for authentication.
+The project was accessed via API, changing content only by authors, creating content only for authenticated applications. View content for everyone. The project uses JWT tokens for authentication.
 
 ## How to launch a project:
 
